@@ -1,6 +1,5 @@
 # 💻 Jonathan Johnson
 
-[![Cover]([https://example.com/cover-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fdeveloper_1906472&psig=AOvVaw1LKvHPi3BMMC4at1dcPMEO&ust=1710195290839000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiWqbzc6oQDFQAAAAAdAAAAABAO))](https://jonathan-johnson-portfolio.vercel.app/)
 [LinkedIn](https://www.linkedin.com/in/jonathan-johnson-66bb90249/) | [Personal Portfolio](https://jonathan-johnson-portfolio.vercel.app/)
 
 ---
