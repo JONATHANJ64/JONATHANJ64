@@ -1,10 +1,11 @@
 # 💻 Jonathan Johnson
 
+[![Cover](https://example.com/cover-image.jpg)](https://jonathan-johnson-portfolio.vercel.app/)
 [LinkedIn](https://www.linkedin.com/in/jonathan-johnson-66bb90249/) | [Personal Portfolio](https://jonathan-johnson-portfolio.vercel.app/)
 
 ---
 
-## EDUCATION
+## EDUCATION 🎓
 
 **Western Governors University**, Bachelor's Degree in Computer Science  
 Salt Lake City, UT | 2022-2024  
@@ -38,7 +39,7 @@ Cumulative GPA: **Senior 4.2 GPA**
 
 ---
 
-## Technical Skills
+## Technical Skills 💻
 
 **Languages/Frameworks (proficient):**  
 - Python
@@ -70,7 +71,7 @@ Cumulative GPA: **Senior 4.2 GPA**
 
 ---
 
-## Work Experience
+## Work Experience 💼
 
 **Software Engineer** | **Scotts Miracle Gro**  
 Temecula, CA | 07/23 - Current  
@@ -89,7 +90,7 @@ Murrieta, CA | 02/20 - 5/21
 
 ---
 
-## Project Experience
+## Project Experience 🚀
 
 **WEB 3 Project** | **Personal Project**  
 [Link to project](https://krypto-chaining.vercel.app)  
@@ -98,6 +99,14 @@ Personal project I made called Krypto Chaining as a Web 3.0 application that all
 **Scotts Temecula Website** | **Role: Main Developer**  
 [Link to project](https://sites.google.com/scotts.com/temecula/home)  
 Google Suite based websites I created for Scotts Miracle Gro. Using embedded code from HTML to Google Javascript to create automatic and environment for relevant information. Choice allowed the integration of autonomous receiving and sending data to large groups company wide in becoming paperless.
+
+**Package Delivery System** | **School Project**  
+[Link to project](https://github.com/JONATHANJ64/student_roster)  
+School Based Python Project used to pass final for Data Structures and Algorithms II. Using hashtable and nearest neighbor algorithm to solve real world examples of simulating delivering packages to addresses and see progress time.
+
+**Commercial Health Care Website** | **Role: Main Developer**  
+[Link to project](https://hoyt-integrative-international.vercel.app/index.html)  
+I have created a front end based website with functionality and well shown HTML, CSS, and JavaScript design for a healthcare company. I have created the main Home page and the About Us page.
 
 **Package Delivery System** | **School Project**  
 [Link to project](https://github.com/JONATHANJ64/student_roster)  
