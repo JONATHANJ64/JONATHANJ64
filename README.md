@@ -1,6 +1,10 @@
 # 💻 Jonathan Johnson
 
-** 
+**' Software Engineer '**
+
+Hello I'm Jonathan Johnson, a software developer with a passion for technology and programming. I am currently attending Western Governors University for a Bachelors Degree in Computer Science, where I hold a 3.4 GPA as a Senior where I have gained experience in developing web and mobile applications. I currently work at Scotts Miracle Gro as a Software Engineer building websites and managing software implementation. My main source of skills from school and my current company are in frontend and backend development, database management, and software automation. I am committed to staying updated with the latest technologies and methodologies to deliver innovative solutions and drive business growth.
+
+"[Personal Profolio][https://jonathan-johnson-portfolio.vercel.app/]"
 <!--
 **JONATHANJ64/JONATHANJ64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
