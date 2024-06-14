@@ -8,7 +8,7 @@
 
 **Western Governors University**, Bachelor's Degree in Computer Science  
 Salt Lake City, UT | 2022-2024  
-Cumulative GPA: Senior **3.4 GPA**  
+Cumulative GPA: Senior **3.7 GPA**  
 **Relevant Coursework:**  
 - Scripting and Programming - Foundations & Applications
 - Data Structure and Algorithms I & II
